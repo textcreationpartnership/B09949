@@ -1,0 +1,551 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tree known by its fruits. Or A relation of the sufferings of Oliver Sansom of Boxford, in the county of Barkes, eagerly inflicted upon him through the means of, and by James Anderton priest of Boxford: Whereby it may appear to all people in the parish of Boxford, and elsewhere, where this shall come, who may with moderation peruse it; whether James Anderton do indeed walk in the way of the ministers of Christ, or in the very exact footsteps of the false prophets and deceivers, for hereby is he manifest, if it be lawfull to try him, and judge according to the rule of our saviour Jesus Christ, who hath said unto us, By their fruits ye shall know them, Mat. 7. 15, 16, &amp;c.</title>
+            <author>Sansom, Oliver, 1636-1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 38 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09949</idno>
+            <idno type="OCLC"> 124064266</idno>
+            <idno type="STC">Wing S686</idno>
+            <idno type="STC">ESTC R483576</idno>
+            <idno type="EEBO-CITATION">124064266</idno>
+            <idno type="OCLC">ocn 124064266</idno>
+            <idno type="VID">192322</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09949)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192322)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2915:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tree known by its fruits. Or A relation of the sufferings of Oliver Sansom of Boxford, in the county of Barkes, eagerly inflicted upon him through the means of, and by James Anderton priest of Boxford: Whereby it may appear to all people in the parish of Boxford, and elsewhere, where this shall come, who may with moderation peruse it; whether James Anderton do indeed walk in the way of the ministers of Christ, or in the very exact footsteps of the false prophets and deceivers, for hereby is he manifest, if it be lawfull to try him, and judge according to the rule of our saviour Jesus Christ, who hath said unto us, By their fruits ye shall know them, Mat. 7. 15, 16, &amp;c.</title>
+                  <author>Sansom, Oliver, 1636-1710.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>printed in the year 1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Haverford College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sansom, Oliver, 1636-1710 --  Early works to 1800.</term>
+               <term>Anderton, James, --  Priest of Boxford.</term>
+               <term>Church attendance --  England --  Early works to 1800.</term>
+               <term>Quakers --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:192322:1" rendition="simple:additions"/>
+            <pb facs="tcp:192322:2"/>
+            <pb facs="tcp:192322:2" rendition="simple:additions"/>
+            <p>The Second SPIRA: Being a fearful Example of <hi>An Atheiſt,</hi>
+            </p>
+            <p>Who had Apoſtatized from the Chri<g ref="char:EOLhyphen"/>ſtian Religion, and died in Deſpair at <hi>Weſt<g ref="char:EOLhyphen"/>minſter, Decemb.</hi> 8. 1692.</p>
+            <p>With an Account of his Sickneſs, Convicti<g ref="char:EOLhyphen"/>ons, Diſcourſes with Friends and Mini<g ref="char:EOLhyphen"/>ſters; and of his dreadful Expreſſions and Blaſphemies when he left the World.</p>
+            <p>As alſo a Letter from an Atheiſt of his Ac<g ref="char:EOLhyphen"/>quaintance, with his Anſwer to it.</p>
+            <p>
+               <hi>Publiſh'd for an Example to others, and recom<g ref="char:EOLhyphen"/>mended to all young Perſons, to ſettle them in their Religion.</hi>
+            </p>
+            <p>By <hi>I. S.</hi> a Miniſter of the <hi>Church of England,</hi> a frequent Viſitor of him du<g ref="char:EOLhyphen"/>ring his whole Sickneſs.</p>
+            <p>
+               <hi>The Fifth Edition.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Dunton</hi> at the <hi>Ra<g ref="char:EOLhyphen"/>ven</hi> in the <hi>Poultry.</hi> 1693.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:192322:3"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <dateline>
+                  <date>January 6th. 1692/3.</date>
+               </dateline>
+               <signed>Edm. Bohun.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:192322:3"/>
+            <head>The Preface.</head>
+            <p>BEing often impor<g ref="char:EOLhyphen"/>tuned by ſeveral of my nearer Ac<g ref="char:EOLhyphen"/>quaintance, to publiſh the following <hi>Relation,</hi> as an account that might be very uſeful to the Publick, particularly a<g ref="char:EOLhyphen"/>gainſt <hi>Profaneneſs and Atheiſm;</hi> and finding my Buſineſs at preſent very
+<pb facs="tcp:192322:4"/>urgent upon me, I have at laſt yielded to give the <hi>Papers</hi> and <hi>Notes</hi> which I took during the <hi>whole Viſitation,</hi> to a Friend of mine, to put 'em in ſome kind of Me<g ref="char:EOLhyphen"/>thod and Order for the Preſs: And having ex<g ref="char:EOLhyphen"/>amined the Piece, now 'tis perfected, with the <hi>Original Notes</hi> and <hi>Pa<g ref="char:EOLhyphen"/>pers</hi> which I drew my ſelf, I find the Subſtance and material Part very faithfully done.</p>
+            <pb facs="tcp:192322:4"/>
+            <p>It cannot be expect<g ref="char:EOLhyphen"/>ed by the Reader that the Stile and Words are <hi>verbatim</hi> the ſame as delivered, eſpecially the <hi>two Letters,</hi> which are in the following Tract, but as far as I remember, and as my Notes will aſſiſt me, (in taking of which I us'd all the Sincerity and Care I could) I dare affirm that there's nothing <hi>material left out,</hi>
+               <pb facs="tcp:192322:5"/>nor is there any interpo<g ref="char:EOLhyphen"/>lations which are not genuine, I mean ſuch as do not add to the Senſe, but only expatiate ' in order to give a plain<g ref="char:EOLhyphen"/>er Notion and Idea of the Matter: But as to what that <hi>Miſerable Gentleman delivered him<g ref="char:EOLhyphen"/>ſelf</hi> (who is the Sub<g ref="char:EOLhyphen"/>ject of this Relation) both I and the ME<g ref="char:EOLhyphen"/>THODIZER of my Notes have been <hi>ſuperſtitiouſly Critical</hi> to
+<pb facs="tcp:192322:5"/>give them as near the Truth, and very Ex<g ref="char:EOLhyphen"/>preſſions, as we could, believing the Reader would not be diſpleas'd to have as Nice and Exact Account of that part of the <hi>Treatiſe</hi> as poſ<g ref="char:EOLhyphen"/>ſibly could be met with.</p>
+            <p>There's another thing which the Reader will not be ſorry to find, which is; That whereas in <hi>dreadful, ſurprizing Relations,</hi> the <hi>Bookſeller, Author,</hi> or
+<pb facs="tcp:192322:6"/>both together, do uſu<g ref="char:EOLhyphen"/>ally clog the Matter of Fact with long and te<g ref="char:EOLhyphen"/>dious Obſervations, im<g ref="char:EOLhyphen"/>pertinent Reflections &amp; ſuch like <hi>Stuff,</hi> only to make the Volume ſwell; here he will find no needleſs or trifling Di<g ref="char:EOLhyphen"/>greſſions, but <hi>unmixt Relation,</hi> barely and <hi>purely</hi> deliver'd, ſo that the Reader all the while he reads, will be upon his Subject, and not
+<pb facs="tcp:192322:6"/>perplex'd with an Expectation of it.</p>
+            <p>I've no more to add but this, That I'm willing to hope and be<g ref="char:EOLhyphen"/>lieve this <hi>Treatiſe</hi> may be a means to ſtartle ſome that are <hi>Atheiſti<g ref="char:EOLhyphen"/>cally Inclin'd;</hi> and perhaps re<g ref="char:EOLhyphen"/>claim others, who by ſeeing this, may conclude it their Intereſt, <hi>Rather to be a thoughtful Reader of ſuch an Hiſtory, than to be ſuch an Hiſtory themſelves.</hi> And as for other <hi>Young People,</hi> whoſe Converſe in the World has not yet given them the unhappy Ac<g ref="char:EOLhyphen"/>quaintance of our <hi>Modern A<g ref="char:EOLhyphen"/>theiſts or their Principles,</hi> this may be a Spur to their Dili<g ref="char:EOLhyphen"/>gence, and a Warning to keep them from the dreadful Sin of APOSTATISING.</p>
+            <closer>
+               <signed>J. S.</signed>
+            </closer>
+         </div>
+         <div type="foreword">
+            <pb facs="tcp:192322:7"/>
+            <head>The Methodizer's Apology.</head>
+            <div type="part">
+               <p>I Am ſenſible enough that this Age has a deal of <hi>Curioſity</hi> and little <hi>Charity</hi> in it, not but that every one, who by Imprudence, Ac<g ref="char:EOLhyphen"/>cident, or otkerwiſe, gives any juſt Occaſion for others to be <g ref="char:V">Ʋ</g>ncharitable, is oblig'd in Juſtice to remove it, or be content to bear it.</p>
+               <p>I ſhall therefore, ſo far as I am concern'd, give that Account to the World which I have done to ſeveral <hi>Eminent Divines</hi> and <hi>Gentlemen,</hi> who have been with me for ſatisfaction in this Affair, <hi>viz.</hi>
+               </p>
+               <p>The <hi>Divine,</hi> whom I believe to be a <hi>Perſon of Integrity,</hi> and from whom I receiv'd the <hi>Mi<g ref="char:EOLhyphen"/>nutes,</hi> (which I have thus Methodiz'd) having mentioned 'em to me, I became Importunate for their Publication, which he declin'd ſeveral times, urging his Dependance upon the <hi>Family,</hi> and the Ill Conſequence it might have, in reſpect of his <hi>Fortunes,</hi> perhaps of his <hi>Life.</hi> At laſt he con<g ref="char:EOLhyphen"/>ſented, upon my Solemn Promiſe not to diſcover him, and upon aſſuring him, that only the <hi>two firſt Letters</hi> of his Name ſhould be printed; all this time retaining from me a knowledge of the Family. So ſoon as I had put the <hi>Original Pa<g ref="char:EOLhyphen"/>pers</hi> in that <hi>little Order</hi> the World now finds them, he deſir'd he might have all back, to com<g ref="char:EOLhyphen"/>pare the <hi>finiſht Piece</hi> with the <hi>Original Notes;</hi> which he did, and wrote the <hi>Preface,</hi> acquitting me of any <hi>Additions, Interpolations,</hi> &amp;c. With this <hi>Preface,</hi> amongſt other things, he ſent me a <hi>Letter</hi> (which afterwards he told me he deſign'd to ſend by it ſelf, and therefore it was ſealed up). The Letter is as follows: <hi>(The Original may be ſeen at the Bookſellers.)</hi>
+               </p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb facs="tcp:192322:7"/>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>I Had Your's, with the Manuſcript, and ha<g ref="char:EOLhyphen"/>ving compard it with the <hi>Memoirs</hi> I took, I think you have done Me, and the Caſe of that miſerable Man, a <hi>rigid Juſtice.</hi>
+                     </p>
+                     <p>As to the <hi>Preface</hi> you mention'd in Your's, if the following will be any Service to you, you are free to it. Let only the <hi>two firſt Let<g ref="char:EOLhyphen"/>ters</hi> of my Name be printed at the latter end of the <hi>Preface.</hi> In the <hi>Title Page</hi> you may alſo ſay, <hi>By </hi>J. S. <hi>a Miniſter of the Church of</hi> England, <hi>a frequent Viſitor during the whole Sickneſs,</hi> or ſomething like it. I'm going down into <hi>Eſſex,</hi> and as ſoon as I return, I'll ſee your Bookſeller, of whom I expect to re<g ref="char:EOLhyphen"/>ceive half a dozen Books.</p>
+                     <closer>
+                        <dateline>
+                           <date>
+                              <hi>Decemb. 26. 1692.</hi>
+                           </date>
+                        </dateline>
+                        <signed>Your real Friend and Servant, <hi>J. S.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>The Book being printed, <hi>ſeveral Divines and others,</hi> who were very willing to have a good At<g ref="char:EOLhyphen"/>teſtation, came to enquire of the <hi>Bookſeller and of me</hi> about it, and I alſo being very deſirous the World might be <hi>fully ſatisfied</hi> in it, (the Rela<g ref="char:EOLhyphen"/>tion beginning to make ſuch an unexpected Noiſe) purſu'd my Author, at his return out of <hi>Eſſex,</hi> with continual Importunities of Publiſhing all he knew of the whole Matter, with the Circumſtan<g ref="char:EOLhyphen"/>ces of <hi>Perſons</hi> and <hi>Place,</hi> preſſing the <hi>Concern of Religion, my own Reputation, and the Bookſeller's,</hi> (who is hereby ſufficiently acquitted from any unfair dealing in the Caſe) to which (as near as I can remember, and as I have told ſome in Town, whoſe <hi>Friendſhip I moſt value</hi>) he anſwer'd, That he was coldly receiv'd at his
+<pb facs="tcp:192322:8"/>return, and loaded with the Epithets of <hi>Ingrate<g ref="char:EOLhyphen"/>ful Promiſe-breaker,</hi> &amp;c. For he had promis'd them not to make the Concern publick, (which in<g ref="char:EOLhyphen"/>deed he has not in the moſt material Points): Be<g ref="char:EOLhyphen"/>ſides, he tells me of ſome <hi>private Threats</hi> that he has heard, in caſe he betrays the Family to the <hi>Publick Ignomy of ſuch a Relation;</hi> and he ſays he is ſufficiently aſſur'd, that thoſe Divines and Doctors he ſaw with the <hi>ſick Perſon,</hi> have been dealt with under-hand, or elſe the Buſineſs muſt certainly have come to light before now. I told him, that I believ'd his <hi>dependance</hi> on the Family (which he told me had many Branches, and this Gentleman was unknown to him before that time) was not abſolutely neceſſary, ſince I doubt<g ref="char:EOLhyphen"/>ed not (for I have heard it promis'd) but that he would meet with a <hi>Patron,</hi> in caſe he ſhould be expell'd. He anſwer'd to this, That if all other Teſtimonies were taken off but his, he might rea<g ref="char:EOLhyphen"/>ſonably fear, being unjuſtly degraded, or <hi>Eternal Impriſonment,</hi> and ſuch an <hi>Action of Scandal,</hi> that would ruin (or at leaſt inconvenience) ſeve<g ref="char:EOLhyphen"/>ral <hi>Patrons</hi> with him; how good this Argument is <hi>I</hi> know not, having very little Acquaintance in Law Matters: I told him, That ſeveral things lookt ſuſpiciouſly in it, as that it ſhould come out <hi>by none of all thoſe</hi> that were preſent, beſides him. To which he anſwer'd as before, That he was confident they were all <hi>adjur'd ſi<g ref="char:EOLhyphen"/>lence,</hi> by Promiſes, Threats, or ſome other Me<g ref="char:EOLhyphen"/>thods ſuitable to their Qualities. I told him, That many ſuſpect, that Mr. <hi>F — N —</hi> was the Perſon: He proteſted he was not. Here were o<g ref="char:EOLhyphen"/>ther things of this nature that paſt betwixt us, in all which I diſcover'd him mighty uneaſie and <hi>apprehenſive</hi> of <hi>further Miſchief,</hi> continually renewing his <hi>Injunction</hi> and my <hi>Promiſe</hi> of not
+<pb facs="tcp:192322:8"/>revealing any thing, if by any fortuitous or un<g ref="char:EOLhyphen"/>guarded Expreſſion, I had diſcovered the Family.</p>
+               <p>As for my <hi>particular,</hi> I know well enough, that my <hi>own Integrity and Reputation</hi> is the Hinge upon which the Relation chiefly moves, and I am very willing that any <hi>Divine, Gentleman,</hi> or o<g ref="char:EOLhyphen"/>ther Perſon whatever, ſhould have the Liberty of Examining <hi>who and what I am,</hi> of all my ac<g ref="char:EOLhyphen"/>quaintance, and if my Credit hither to appears <hi>unſpot<g ref="char:EOLhyphen"/>ted and free,</hi> and not ſtain'd with <hi>baſe, little and diſhonourable Actions,</hi> I hope I ſhall have that <hi>common Charity</hi> in this Affair which every one would be unwilling to be deny'd, were he in my circumſtances. The <hi>Bookſeller</hi> will give any one an account of my <hi>Lodgings,</hi> where they may have means for further ſatisfaction upon this <hi>laſt Head.</hi> So that I think there's no neceſſity of ſubſcribing my Name to this Apology.</p>
+               <p>This is the fullest Account the World is to ex<g ref="char:EOLhyphen"/>pect from what I at preſent know in this Affair, and if I receive any further light into it hereafter, I ſhall ſoon make it publick, for my own credit, and the ſatisfaction of others.</p>
+            </div>
+            <div type="testimonials">
+               <div type="testimonial">
+                  <p>THe <hi>Methodizer</hi> of this Hiſtory, being a Per<g ref="char:EOLhyphen"/>ſon of <hi>great Integrity,</hi> the Reader has no reaſon to queſtion the truth of this printed <hi>Atte<g ref="char:EOLhyphen"/>ſtation</hi> he has here given concerning it; and what commendation I ſhall give of it, will be ſerviceable no longer than till thou haſt peruſed it through; <hi>Thou wilt find ſuch Wine in it as needs no Buſh.</hi> This only I ſhall ſay, it well deſerves thy
+<pb facs="tcp:192322:9"/>ſerious and frequent Peruſal; and I heartily wiſh thoſe pious Gentlemen that have Eſtates would be inſtrumental in diſperſing of it throughout the <hi>whole Kingdom,</hi> that ſo all ranks of Men, eſpecially the <hi>Youth</hi> of this Nation, might reap ſome advan<g ref="char:EOLhyphen"/>tage by this <hi>extraordinary</hi> and amazing Inſtance. This is the Sentiment and hearty Deſire of thy cor<g ref="char:EOLhyphen"/>dial Friend in the Lord,</p>
+                  <closer>
+                     <signed>
+                        <hi>R. Wolley,</hi> M. A.</signed>
+                  </closer>
+               </div>
+               <div type="testimonial">
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>February the</hi> 1ſt. 1692/3.</date>
+                     </dateline>
+                  </opener>
+                  <p>A Gentlewoman came into Mr. <hi>Dunton</hi>'s Shop, between three and four a Clock, and ſaid, She knew the <hi>Second Spira,</hi> and was acquainted with the Family to which he belonged.</p>
+                  <closer>
+                     <salute>Witneſs my Hand,</salute> 
+                     <signed>Joſeph Poole.</signed>
+                  </closer>
+               </div>
+               <div type="testimonial">
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>February the</hi> 1ſt. 1692/3.</date>
+                     </dateline>
+                  </opener>
+                  <p>A Gentlewoman came into Mr. <hi>Dunton</hi>'s Shop, in Company with another Per<g ref="char:EOLhyphen"/>ſon, and ſaid, She knew the <hi>Second Spira,</hi> and was acquainted with the Family; and when he importunately urg'd her to tell him who the Perſon was, ſhe ſaid, ſhe would not diſ<g ref="char:EOLhyphen"/>cover the Perſon or Family, but that the Truth of it would be acknowledged in a little time.</p>
+                  <closer>
+                     <salute>Witneſs my Hand,</salute> 
+                     <signed>Ananias Hodges.</signed>
+                  </closer>
+               </div>
+               <argument>
+                  <p>Thoſe two Perſons live in <hi>Crutched Fryers</hi> near the <hi>Pump.</hi>
+                  </p>
+               </argument>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:192322:9"/>
+            <head>
+               <hi>The ſecond</hi> SPIRA.</head>
+            <p>THat Examples prevail a<g ref="char:EOLhyphen"/>bove Precepts can be no Surpriſe to any one that conſiders the rarity of them, or that moſt of the Senſes being at once imployed they ſhould make ſo ſtrong an Impreſſion upon the Brain, and ſo upon the Under<g ref="char:EOLhyphen"/>ſtanding, according to the manner of Human Perception.</p>
+            <p>The preſent Inſtance, whoſe Re<g ref="char:EOLhyphen"/>lation I have undertaken, having made ſo deep an Impreſſion upon my own Mind, I could not think, but that if all Men participate of the ſame Nature as I do, but that they muſt be equally affected with it,
+<pb n="2" facs="tcp:192322:10"/>ſome Allowance being made for this, That what I my ſelf ſaw and heard actually, I communicate by way of Relation to others.</p>
+            <p>I am obliged, out of Tenderneſs and Reputation, to conceal the Name of the Family of this Gentleman, who is the Subject of the following Diſcourſe, and could heartily wiſh that my concealing it would make ſo many as do know it, to forget every thing but the Example itſelf, that being only <hi>uſeful,</hi> the reſt <hi>Ignomi<g ref="char:EOLhyphen"/>nious:</hi> But I am afraid my Wiſhes will prove ſucceſsleſs, there being <hi>four more Divines,</hi> beſides my ſelf, who were very frequently there, at the beginning of his Sickneſs, beſides ſeveral Gentlement and others, whoſe Acquaintance, or Deſign of doing Good might lead them thither.</p>
+            <p>This unhappy Gentleman, who made ſo direful an <hi>Exit</hi> the eighth of this inſtant <hi>December,</hi> had in his youth Time the Advantage of <hi>a Re<g ref="char:EOLhyphen"/>ligious and Virtuous Education;</hi> in which it was obſervable, That he
+<pb n="3" facs="tcp:192322:10"/>made a more conſiderable Progreſs than was uſual for ſuch Years, being very warm and active in all Religi<g ref="char:EOLhyphen"/>ous Exerciſes: Beſides, he was a great proficient in Learning, being ſent up to the Univerſity from the School where he was edu<g ref="char:EOLhyphen"/>cated, very perfect in his <hi>Latin</hi> and <hi>Greek Tongues</hi> at ſixteen Years of Age, where he continued five Years: His Behaviour and Deportment be<g ref="char:EOLhyphen"/>ing ſuch that all his Friends and Acquaintance lookt upon him as an <hi>uncommon Bleſſing,</hi> an Ornament to his Family. At the Age of twenty one he came up to Town, and en<g ref="char:EOLhyphen"/>tred himſelf into the Inns of Court, deſigning to ſtudy the Law; his Friends and he concluding it neceſſa<g ref="char:EOLhyphen"/>ry, <hi>That thoſe that have Eſtates ſhould have at leaſt ſo much inſight in the Law at to know how to preſerve them.</hi>
+            </p>
+            <p>Oh that I could proceed with my Character, or at leaſt abruptly break off, and ſay, Here he dyed, <hi>ignorant of the Town and its Vices!</hi> But alas, the Scene is chang'd, and here
+<pb n="4" facs="tcp:192322:11"/>we bring another Perſon upon the Stage, <hi>laugh'd and ridicul'd out of his Innocence and Vertue,</hi> by new Acquain<g ref="char:EOLhyphen"/>tance, and for a long Time together playing the Hypocrite, aſſuming unto himſelf a degree of that Pro<g ref="char:EOLhyphen"/>faneneſs and Impiety he was inno<g ref="char:EOLhyphen"/>cent of, appearing more vile and baſe than he could ſuddenly bring himſelf to be, only to ſecure his Reputation with his Companions, and avoid the uneaſineſs of being a <hi>Common Jest.</hi> But this was not the only nor chief Method whereby he was brought to his Apoſtacy, for he had too much Judgment, and too well grounded to be ſhock'd and al<g ref="char:EOLhyphen"/>tered with a <hi>bare Laughter, or a ridiculous Grin.</hi> He would often ſay,
+<q>Gentlemen, thoſe that pretend to Reaſon cannot be ſo bewitched with the Charms of Mirth as to think Laughing a good Argument to confute whatever may be ſaid; if Religion be ſo unreaſonable a thing as you'd perſwade me, by laughing at it, why don't ye give
+<pb n="5" facs="tcp:192322:11"/>me ſome fair Reaſons againſt it?</q> Hereupon ſome of the oldeſt ſtand<g ref="char:EOLhyphen"/>ing would ſuggeſt,
+<q>That <hi>Mahomet</hi> has more Votaries than Chriſt: That that Religion is not without its Martyrs and Confeſſors; That the wild Indians dare bravely dye for their Religion: That there's no Nation, be it never ſo Barba<g ref="char:EOLhyphen"/>rous, that gives us not ſome fine Examples of <hi>Doing and Suffering;</hi> that therefore its not the Excel<g ref="char:EOLhyphen"/>lency of any one Religion, but the Prejudices of all, that produces theſe Effects: That 'tis the Habit and Cuſtom of Education that creates the <hi>formidable Notions of Conſcience, Heaven, Hell, Futurity</hi> and the <hi>Immortality of the Soul,</hi> all which are but the politick Inven<g ref="char:EOLhyphen"/>tions of Prieſts and cunning Ma<g ref="char:EOLhyphen"/>giſtrates, to enrich themſelves and keep the Vulgar in Awe, who are naturally Superſtitious and Fear<g ref="char:EOLhyphen"/>ful:</q> With a deal more to the ſame purpoſe. Such Haranguesas theſe did by little and little poyſon
+<pb n="6" facs="tcp:192322:12"/>the Principles of this poor Gentle<g ref="char:EOLhyphen"/>man, and mould him into the ſame Leaven with themſelves, not only into the <hi>ſame Judgment, but liberty of all Profaneneſs, Debauchery</hi> and <hi>Inju<g ref="char:EOLhyphen"/>ſtice,</hi> as far as he could act without the Cognizance of the Law. It won't be amiſs to add, That this Gentleman was one of that CLUB which within theſe laſt ſeven Years met together conſtantly, <hi>To lay down ſuch Rules and Methods as that they might be critically wicked in every thing that they could, without the Laws taking hold of them; and therefore the Law itſelf was more particularly ex<g ref="char:EOLhyphen"/>amined, What Fallacies might be put upon it; Where and in what Caſes it did not provide againſt unheard of Villanies; What Subterfuges and Eva<g ref="char:EOLhyphen"/>ſions there might be in its Expoſition; with many more like horrid Inſtances, which were all noted down as very uſe<g ref="char:EOLhyphen"/>ful Diſcoveries for the new Candidates of improved Impiety.</hi>
+            </p>
+            <pb n="7" facs="tcp:192322:12"/>
+            <p>But to proceed, This Gentleman's Senſe and Education had furniſh'd him with too much Prudence to lay open himſelf to every Body; he commonly kept a very fair Corre<g ref="char:EOLhyphen"/>ſpondence with his Friends, and in all ſtrange Places was very ſober and reſerv'd, Prudence obliging him not to diſcover all he believed, to every Body. Thus he liv'd ſeveral Years, being as <hi>ſecretly wicked</hi> as all Temptations, and the Advantages of a good Eſtate, would ſuffer him: But as <hi>the Wicked do not live out half their Days</hi> by reaſon of their Intem<g ref="char:EOLhyphen"/>perance and Debaucheries, ſo this Gentleman haſtned his diſmal Peri<g ref="char:EOLhyphen"/>od by the like Courſes, falling de<g ref="char:EOLhyphen"/>ſperately ill on the thirtieth of <hi>November</hi> laſt, continuing ſo till the eighth of this inſtant <hi>December,</hi> as we ſaid above.</p>
+            <p>As ſoon as he found himſelf pre<g ref="char:EOLhyphen"/>cipitated by his <hi>ill Courſes</hi> into ſuch a dangerous Sickneſs, he began to be extreamly ſtartled and amazed at the <hi>Apprehenſions of Death</hi> (for he
+<pb n="8" facs="tcp:192322:13"/>believed he ſhould dye) and in ſpite of all he could do, he could not for<g ref="char:EOLhyphen"/>bear reflecting upon another Life; and notwithſtanding all his Fortifi<g ref="char:EOLhyphen"/>cations to the contrary, he could not confute nor rid himſelf of the Expectation of a Future Retributi<g ref="char:EOLhyphen"/>on. Being thus diſtracted with his Diſtemper and Fears, he threw him<g ref="char:EOLhyphen"/>ſelf upon the Bed, and diſcourſed with himſelf after this manner. <hi>Oh! what's the meaning of this Tumul<g ref="char:EOLhyphen"/>tuous War in my Breast? what Argn<g ref="char:EOLhyphen"/>ment is there now to aſſiſt me againſt Matter of Fact? Do I aſſert, that there's no Hell at all, and yet I feel one in my Boſom? Am I certain, that there's no Heaven, when I am ſo ſure that there's a Hell? That there is no After-retributions when I feel a preſent Judgment? Do I affirm my Soul to be as Mortal as my Body, when this Languiſhes, and that is as Vigorous as ever? O that any one could reſtore to me my Ancient Guard of Piety and Innocency! But it's too late. Wretch that I am, whither ſhall
+<pb n="9" facs="tcp:192322:13"/>I fly from this Breaſt, or what will become of me?</hi>
+            </p>
+            <p>He had no ſooner ended, but in comes one of <hi>his old Companions,</hi> to pay him a Viſit, for he had heard that he was not well:
+<q>How now Brother (ſays he) why this Me<g ref="char:EOLhyphen"/>lancholy Look and Poſture, you ſeem to be more concerned in your Mind than Body? pray tell me <hi>what's the Matter?</hi>
+               </q>
+               <q>
+                  <hi>The Matter?</hi>
+               </q> replyed the other, fixing a pair of ghaſtly Eyes upon him, <q>'Tis you, and the reſt of my Companions, that have inſtill'd thoſe Principles into me, which now having moſt need of them, leave me in the Agonies of Deſpair and Confuſion. What Advice or Comfort have you now to fortifie me againſt my fearful Expectations of ano<g ref="char:EOLhyphen"/>ther Life? Are you certain that my Soul is Material and Mortal? And that it will diſſolve with the Body?</q>
+               <q>I'm ſo certain, replyed the other, that I venture my Whole upon it.</q> Here I inter<g ref="char:EOLhyphen"/>rupted
+<pb n="10" facs="tcp:192322:14"/>them by coming into the Room, and applying my ſelf to the Sick Perſon, I told him,
+<q>That I was a Stranger to him, yet hearing of his Diſtemper, I thought it my Duty to pay him a Viſit, and give him what Chri<g ref="char:EOLhyphen"/>ſtian Comfort and Advice I was capable of. I Thank you, replyed the Sick Perſon, and would deſire you then to engage that Gentle<g ref="char:EOLhyphen"/>man that ſits there (meaning his Friend) and prove unto him that the Soul is not Matter, nor Mor<g ref="char:EOLhyphen"/>tal. That the Soul is not Mat<g ref="char:EOLhyphen"/>ter (ſaid I) <hi>Deſcartes</hi> has prov'd in his <hi>Method,</hi> by ſhewing that the Soul is <hi>independent of Matter.</hi> That Matter itſelf cannot think, neither in the Whole nor its Parts, is evident enough from Mr. <hi>Lock</hi> of HUMAN UNDER<g ref="char:EOLhyphen"/>STANDING. But after all we perhaps can beſt prove it thus; Matter is by every Philoſopher granted to be in its own Nature indifferent to Motion or Reſt:
+<pb n="11" facs="tcp:192322:14"/>That if it be in Reſt, it will lye eternally ſo, unleſs ſomething elſe moves it; and that if any thing puts it in Motion, it will eternally move, were it not for the Oppoſition of other Matter which clogs and retards its Mo<g ref="char:EOLhyphen"/>tion. But thoſe that would have the Soul to be a <hi>pure fine Matter,</hi> ſay, that it firſt moves the Animal Spirits, they the Nerves, and theſe a Leg, an Arm, <hi>&amp;c.</hi> mechanically, as Matter moves Matter. Now thoſe that make the Soul the firſt Agent and Mover, make Matter to move itſelf, which is impoſſible, accord<g ref="char:EOLhyphen"/>ing to the above-cited Theſis, which will have Matter to reſt eternally, unleſs it be moved by ſomething. But the Soul does move the Body independent of Matter, and Matter cannot move unleſs it be firſt moved: Therefore the Soul is not Matter, and conſequently not periſhable by Attrition, Tran<g ref="char:EOLhyphen"/>ſinutation, <hi>&amp;c.</hi> But, Gentlemen,
+<pb n="12" facs="tcp:192322:15"/>added I, I hope there's no need of a Lecture of this Nature to either of you; for you look like Creatures that have a ſhare in Human Nature, which has the Doctrin of the Immortality of the Soul innate with it.</q> The ſick perſon made no other Anſwer than a <hi>diſmal Groan,</hi> as if his Heart had broke, and his Friend alſo made haſte out of the Room, without bidding us <hi>God b'w'e.</hi> I was ſurprized at ſuch an Effect, and deſired the ſick Party to know the Reaſon of his Diſcontent, offering my Aſſiſtance to remove it, if poſſible, by Coun<g ref="char:EOLhyphen"/>ſel, Prayers, Advice, or any way that lay in my Power.</p>
+            <p>
+               <q>Alas, Sir, replyed he, you've undeceiv'd me, now its too late; I was afraid of nothing ſo much as the Immortality of my Soul; now you have aſſured me of that you have aſcertained me of a Hell, of a fearful Expectation of Judgment, of a Portion among
+<pb n="13" facs="tcp:192322:15"/>thoſe that have apoſtatiz'd from their Religion, of the Lot of Atheiſts, and Denyers of Chriſt: You have now ſealed my Damna<g ref="char:EOLhyphen"/>tion, by giving me an Earneſt of it, I mean an awakened Conſcience, that brings my Sins into my Re<g ref="char:EOLhyphen"/>membrance, reckoning up the <hi>numerous Catalogue</hi> for which I muſt go and give an Account. Oh Apoſtate Wretch, from how great Hopes am I fallen! Oh that I had never known what Religion had been, then had I never de<g ref="char:EOLhyphen"/>ny'd my Saviour, nor been ſo black an Heir of Perdition.</q> I was ſo ſurprized at ſuch kind of Expreſſi<g ref="char:EOLhyphen"/>ons that I ſtood ſpeechleſs for a conſiderable Time, for having re<g ref="char:EOLhyphen"/>ceived the Character of a Perſon that had imbibed ſome atheiſtical Principles; I little expected ſuch a <hi>de<g ref="char:EOLhyphen"/>ſperate Change,</hi> but rather that I ſhould have an hard Task of it to make him conſider ſeriouſly of a future Life: But ſo ſoon as I could re<g ref="char:EOLhyphen"/>collect my ſelf, I ſaid, Sir, I would
+<pb n="14" facs="tcp:192322:16"/>deſire you to take heed how you violate the <hi>Mercy of God,</hi> and think ſo ſlightly of the Suffer<g ref="char:EOLhyphen"/>ings of Chriſt, as if they were not <hi>ſufficient for the Redemption of the greatest Sinner.</hi> This may be a De<g ref="char:EOLhyphen"/>luſion of the Devil, who would now hinder you from Repentance and Faith in Chriſt. I hope, if I have convinc'd you of the Immor<g ref="char:EOLhyphen"/>tality of the Soul, 'tis to a good End; for the way to cure a Diſtem<g ref="char:EOLhyphen"/>per is firſt to know it; if you had died ignorant of it, you had been miſerably undecived in another World, whereas knowing it now, you have an Opportunity and ſome time left to prepare for your wel<g ref="char:EOLhyphen"/>fare. To which he repli'd,</p>
+            <p>
+               <q>As to the Mercy of God, in Chriſt, I once knew and taſted what they are, which is now part of my Curſe, in that I am more ſenſible of the loſs of them. They are, I will grant you, ſuf<g ref="char:EOLhyphen"/>ficient to thoſe that have any ſhare in them; but what's that
+<pb n="15" facs="tcp:192322:16"/>to me, who have denied Chriſt? Who have daily Crucified him afreſh, and put him to open ſhame? The Devil has nothing to do with the Torture I undergo; 'tis no Deluſion of his, but the juſt Judgment of God upon me; and your Convictions are alſo part of my heavy Judgment, in that you have given me a ſenſible Horror of my Sin, by proving my Soul immortal, whereas had I gone ſtreight to Hell in my old Dam<g ref="char:EOLhyphen"/>nable Opinions, I had endured but one Hell, whereas I now feel two: I mean not only an inex<g ref="char:EOLhyphen"/>preſſible Torture which I carry in my Breaſt, but an Expecta<g ref="char:EOLhyphen"/>tion of I know not what a Change. Oh that I were in Hell, that I might feel the worſt! And yet I dread to Die, be<g ref="char:EOLhyphen"/>cauſe that worſt will never have an end.</q>
+            </p>
+            <p>All that he ſpoke, was with <hi>an Air of ſuch horror</hi> and eagerneſs as can ſcarce be imagined; indeed it
+<pb n="16" facs="tcp:192322:17"/>had ſuch Effects upon me, that I knew not what to anſwer: I trembled at the Judgment of, and I remember I wiſht within my ſelf that one or two of the <hi>looſest Atheiſts in the Age</hi> had been there, verily believing it would have put a ſtop to their Impiety. The Gentleman was got to Bed, re<g ref="char:EOLhyphen"/>fuſing all Suſtenance, and ſweating through Violence of his Torments, in the moſt prodigious manner that ever I ſaw or heard of. As ſoon as he was got to Bed, I deſired to pray by him before I took my Leave, which with much Reluctance he con<g ref="char:EOLhyphen"/>ſented to. <hi>In the midſt of Prayer</hi> he groaned extreamly, toſſing and turn<g ref="char:EOLhyphen"/>ing himſelf as if he had been under the deepeſt <hi>Agonies of Death:</hi> When Prayer was over, I ask'd him how he did, and why he groaned after ſuch a rate in Prayer-time? To which he anſwered,
+<q>As the Damned in Hell, which lift up their Eyes in Torments, and behold afar off the Saints in <hi>Abraham</hi>'s Boſome, have their Torments thereby
+<pb n="17" facs="tcp:192322:17"/>doubly enhanſed, firſt by reflect<g ref="char:EOLhyphen"/>ing on their own Miſery, and then taking a proſpect of the Beatifick Viſion they have loſt; even ſo, I, who know my ſelf to be hardned, and ſealed unto Damnation, hearing the Prayers of the Righteous, to which God Almighty's Ears are always open, granting their Re<g ref="char:EOLhyphen"/>queſts, this encreaſes my Tor<g ref="char:EOLhyphen"/>ments, to think how I am exclu<g ref="char:EOLhyphen"/>ded from ſuch a priviledg, and have no other Portion left me, but <hi>Bla<g ref="char:EOLhyphen"/>ſpheming, Weeping, aad Wailing, and Gnaſhing of Teeth, for ever.</hi>
+               </q> Pray Sir, ſaid I, Conſider, that there's a vaſt deal of difference betwixt you and thoſe that are in Hell; they are loſt irrevocably for ever-more, with<g ref="char:EOLhyphen"/>out any opportunity of Reprieve, or hopes of Pardon; but you are yet alive, and have Promiſes belonging to you in common, with other Sin<g ref="char:EOLhyphen"/>ners; <hi>Christ died for Sinners,</hi> and God hath Sworn by himſelf, that he <hi>delights not in the Death of a Sinner, but rather that he ſhould turn from his
+<pb n="18" facs="tcp:192322:18"/>Wickedneſs and Live; and that at what time ſoever a Sinner returneth from the Evil of his Ways, he ſhall receive Pardon.</hi> To which he re<g ref="char:EOLhyphen"/>ply'd with his uſual earneſtneſs,
+<q>I'll grant you as much difference betwixt me and thoſe that are in Hell, as betwixt a Common Devil, and a Devil Incarnate. If theſe are irrevocably loſt without op<g ref="char:EOLhyphen"/>portunity of Reprieve, or hopes of Pardon, and I am yet alive, what then? what's the Conſequence? not that the Promiſes belong to me in common with other Sinners, nor to any Sinners but ſuch as Re<g ref="char:EOLhyphen"/>pent and Believe: <hi>If Chriſt dy'd for Sinners,</hi> 'tis for ſuch as Repent and Believe; but tho' I would, I can do neither, I have outſtood my Day of Grace, and am hardned, and turned Reprobate; <hi>If God delights not in the Death of Sinners,</hi> 'tis of ſuch Sinners as repent and return unto him; but his Juſtice will vindicate it ſelf upon ſuch ob<g ref="char:EOLhyphen"/>ſtinate perverſe Sinners as I, who
+<pb n="19" facs="tcp:192322:18"/>have deny'd his Power and Provi<g ref="char:EOLhyphen"/>dence both in my Words and Acti<g ref="char:EOLhyphen"/>ons, and now he has met with me for it; and oh <hi>'tis a fearful thing to fall into the hands of the living God.</hi> If God was not againſt me, I ſhould not value it, tho' all the Legions of Hell engaged me, tho' all the Power and Malice of Men joined in one Complicated Body to ſtudy and exerciſe the utmoſt Bar<g ref="char:EOLhyphen"/>barities that Fleſh and Blood could inflict upon me; but when an An<g ref="char:EOLhyphen"/>gry Irreconcilable God looks up<g ref="char:EOLhyphen"/>on his Creature in Wrath, and conſigns him over to his Eternal Vengeance and Fury, this is into<g ref="char:EOLhyphen"/>lerable, inexpreſſibly, afflicting, and grievous: Ah <hi>who can dwell in everlaſting Burnings?</hi> Oh ye that have any hope, and have not yet paſt your Day of Grace, Cry mightily to God, Day and Night; think no labour too much which ſecures you from the Wrath of God: Oh who can ſtand before him when he is Angry, what Stub<g ref="char:EOLhyphen"/>ble
+<pb n="20" facs="tcp:192322:19"/>can reſiſt ſuch a Conſuming Fire?</q> This, and more to the ſame purpoſe, he ſpake with ſo deep a Concern, the Tears trickling all the while down his Cheeks, that no Body in the Room could refrain Weeping, which he perceiving ſaid,
+<q>And can ye Weep at the image and bare relation of the effects of Gods Wrath, what then do you think I ſuffer, who actually lie under the very weight of his Fury? Refrain your Tears for me, 'tis in vain; Pity is no Debt to me, nothing is ſo proper for me as ſome Courſe to compleat my Miſery, and free me from the Torments of my Ex<g ref="char:EOLhyphen"/>pectation.</q> Here he paus'd a lit<g ref="char:EOLhyphen"/>tle, when looking towards the Fire, he ſaid,
+<q>Oh that I was to lie and broil upon that Fire for a Hundred Thouſand Years to purchaſe the Favour of God, and be Reconci<g ref="char:EOLhyphen"/>led to him again. But 'tis a fruit<g ref="char:EOLhyphen"/>leſs vain Wiſh, Millions of Milli<g ref="char:EOLhyphen"/>ons of Years will bring me no nearer the ends of my Tortures
+<pb n="21" facs="tcp:192322:19"/>than one Poor Hour: O Eternity, Eternity, who can diſcover the Abyſs of Eternity; who can pro<g ref="char:EOLhyphen"/>perly Paraphraſe upon the Words <hi>for Ever and Ever!</hi>
+               </q>
+            </p>
+            <p>I could not forbear reflecting on that paſſage <hi>of broiling upon the Fire a Hundred Thouſand Years to purchaſe the Favour of God, and be again Re<g ref="char:EOLhyphen"/>conciled to him;</hi> how unproportiona<g ref="char:EOLhyphen"/>ble was this Poor Man's Concern to that of the Common Practice of the World, a great part of which will allow no time in Days, Weeks, Years, to ſeek the Face and Favour of God? And amongſt thoſe that pre<g ref="char:EOLhyphen"/>tend to Religion? How cooly and in<g ref="char:EOLhyphen"/>differently do they ſpend that time they ſet apart for Private or Pub<g ref="char:EOLhyphen"/>lick Devotion, Were they ſenſible but for one Minute of what this Wretched Perſon endured, what a <hi>Spur would it be to their Devotion,</hi> and how careful would they be to make their <hi>Calling and Election ſure,</hi> how fearful, leſt having a Promiſe made them of entring into Reſt, any of
+<pb n="22" facs="tcp:192322:20"/>them ſhould fall ſhort through unbe<g ref="char:EOLunhyphen"/>lief, and ſo be fruſtrated of their ſhare and hopes of that Glory which is to be revealed?</p>
+            <p>It began to grow late, ſo I took my leave of him for that Night, promiſing to renew my Viſit, (if it pleaſed God,) the next Day, when I found him ſtill in the ſame Condition, as to his Mind; but his Body was much weakned by his con<g ref="char:EOLhyphen"/>tinual Sweats, cauſed by the Agonies he lay under. I found Three or Four Divines with him who had been at Prayer, which they told me, had the ſame uneaſie effect upon him, as when I Prayed with him the Night before. One of the Divines deſired him to conſider the Example of St. <hi>Peter,</hi> who had denied his Maſter with Oaths and Curſes, and yet was re<g ref="char:EOLhyphen"/>ceived again into his Favour. To which he reply'd, (officiouſly a<g ref="char:EOLhyphen"/>gainſt himſelf, as he had done all the Day before,)
+<q>'Tis true, St. <hi>Peter</hi> did deny his Maſter, as I have done, but what then? his Maſter
+<pb n="23" facs="tcp:192322:20"/>had Prayed for him, that his Faith ſhould not fail, and being willing that he ſhould Repent, he look'd him into a Repentance, and aſſiſt<g ref="char:EOLhyphen"/>ed him by his Holy Spirit to per<g ref="char:EOLhyphen"/>fect it; now if Chriſt would aſ<g ref="char:EOLhyphen"/>ſiſt me to Repent, I ſhould do ſo too, but he hath juſtly withdrawn his Interceſſions from me: I have <hi>ſo often Crucified him a freſh, and put him to open ſhame, ſo often grieved that Holy Spirit,</hi> that God has taken it away from me, and in the room thereof has left me the Spirit of Impenitence and Repro<g ref="char:EOLhyphen"/>bation, and given me a certain Earneſt of a <hi>fearful Inheritance</hi> in another Life.</q>
+            </p>
+            <p>He ſpake little more that Day, for a deal of Company preſſing in, it became troubleſome to him, and to<g ref="char:EOLhyphen"/>wards Night Orders were taken for the avoiding ſuch an Inconvenience. There were four more Divines in the Room beſides, at ſix a Clock; we all look'd upon one another, not knowing what courſe to take, no
+<pb n="24" facs="tcp:192322:21"/>Text being offered in his favour, but what he readily turned another way; whilſt we were thus Muſing, he Cry<g ref="char:EOLhyphen"/>ed out in a vehement affecting Paſſi<g ref="char:EOLhyphen"/>on,
+<q>How long, oh Lord! ſhall thy Wrath burn for ever againſt me, ſhall thy Eternal Juſtice for ever exact upon a poor deſpicable Worm? What is my Value or Worth that thou ſhouldſt pour out full Vials of Wrath upon me? Oh that thou wouldſt let go thy Hand, for ever forget me, and let me fall into my firſt nothingneſs again; as my Righteouſneſs could have profited thee nothing, ſo my Impieties have done thee no hurt, therefore Annihilate me, and let me Periſh to nothing; be not Angate with me that I thus Expo<g ref="char:EOLhyphen"/>ſtulate with thee; 'twill be but a little time but thy Wrath will force the Dreadfulleſt Blaſphemies from me, except thou prevent them: Oh that thou wouldſt take away my Being, and my Miſery; neither of them can add to, or di<g ref="char:EOLhyphen"/>miniſh
+<pb n="25" facs="tcp:192322:21"/>from thy Happineſs, there<g ref="char:EOLhyphen"/>fore let them both ceaſe, and let my Name be known no more; or if I muſt ſtill be, and be Immor<g ref="char:EOLhyphen"/>tal, and thou wilt Puniſh me, be<g ref="char:EOLhyphen"/>cauſe I have Deſpiſed thee, let it ſuffice to be a Privation of thy Self, and let me paſs my Eternity in a Dream, without ever being awakned by the pangs of Tor<g ref="char:EOLhyphen"/>ment, without ever being di<g ref="char:EOLhyphen"/>ſturbed by the Gnawing of the <hi>Worm that Dies not.</hi> But Oh what fruitleſs Deſires are theſe, for I am Expoſtulating with a God that has cloſed his Ears, and will not hear, with a God that has for ever ſhut out my Prayers, and only protracts my Breath a little longer to be an Example unto others! Oh ye Rocks and Mountains, that ye would hide me from the pre<g ref="char:EOLhyphen"/>ſence of an Incenſed God!But there's no flying from his preſence, what he has begun he will finiſh, he will extend his Wrath againſt me for ever and ever.</q> Here ſome
+<pb n="26" facs="tcp:192322:22"/>Body knocked at the Door, and it proved to be a Penny-Poſt-Man with a Letter to this Gentleman; which being told him,
+<q>How (ſays he) a Letter for me? A lit<g ref="char:EOLhyphen"/>tle longer, and I expect another ſort of a Meſſenger, I am (added he) very quickly to give up my Accounts of every ſecret Action) that I have done, and I have a mind to make an Experiment of ſomething of the ſame Nature, to ſee how I can bear it; and looking about the Room he eſpy'd me; pray Sir, ſaid he, do me the fa<g ref="char:EOLhyphen"/>vour as to open and read this Let<g ref="char:EOLhyphen"/>ter, the Contents I know not, but I ſuſpect it to come from ſome of my old Acquaintance.</q> I deſi<g ref="char:EOLhyphen"/>red to be excuſed, alledging, that poſſibly there might be ſomething in it that might be improper to di<g ref="char:EOLhyphen"/>vulge.
+<q>Nothing, nothing, re<g ref="char:EOLhyphen"/>ply'd, he, can affect me now; I have no Honour, no Reputation, and what's yet worſe, no Heaven to loſe, by this or any other Act,
+<pb n="27" facs="tcp:192322:22"/>therefore pray Sir oblige me, or I muſt trouble ſome Body elſe.</q> Up<g ref="char:EOLhyphen"/>on this I broke open the Letter, de<g ref="char:EOLhyphen"/>ſigning firſt to take a Curſory View of it, and then to proceed, or de<g ref="char:EOLhyphen"/>ſiſt, according as I found the Con<g ref="char:EOLhyphen"/>tents, which upon peruſal, I thought not impertinent to the preſent Caſe, and therefore Read as follows,</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Deareſt Sir,</salute>
+                  </opener>
+                  <p>
+                     <hi>UNderſtanding you are fallen dan<g ref="char:EOLhyphen"/>gerouſly ill, and that it had a Melancholy Effect upon you, I could not, (conſidering our stricter Friend<g ref="char:EOLhyphen"/>ſhip) but endeavour at leaſt the remo<g ref="char:EOLhyphen"/>val of thoſe Evils your Mind may lie under, which perhaps is an Office no leſs grateful, than making your Body Sound and Vigorous. Sickneſs and Death are the common Lot of Mankind, and to Repine and Grieve at the bearing of this Lot, is to Combat the Laws of Nature, and Fight againſt Impoſſibilities; what Wiſe Man Repines at the Heat in Sum<g ref="char:EOLhyphen"/>mer, or Cold in Winter, or troubles himſelf, that the Sun ever goes out of
+<pb n="28" facs="tcp:192322:23"/>our Hemiſphere all the Night-time? a common Evil that every Body bears, ceaſes to be an Evil, becauſe there's no one has a better Fortune to compare with it, and without compariſon, nothing can be ſaid to be better or worſe; thus alſo a Good made common Palls into Indiffe<g ref="char:EOLhyphen"/>rency from the ſame Reaſons. But per<g ref="char:EOLhyphen"/>haps your Melancholy ſuggeſts unto you, that 'tis a diſmal thing to Launch out into an unknown Abyſs, to be you know not where, nor what. I Anſwer, I dream ſometimes of frightful things, and the Idea's that I have of them, im<g ref="char:EOLhyphen"/>preſs as afflicting Reſentments upon my Spirits, as if they were real, but when I awake all vaniſhes. Thus, if we will examine Death, and its ſuppoſed Conſe<g ref="char:EOLhyphen"/>quences, by the Prejudices of a Melan<g ref="char:EOLhyphen"/>choly and Diſtracted Brain, we may be Miſerable, proportionable to the heighth of our Folly; but if by our Reaſon we take a View of theſe Formidable Mon<g ref="char:EOLhyphen"/>ſters, they grow tame and familiar to us. I would demand of him that asks me, What Eſtate I ſhall be in after Death, What Eſtate he was in before
+<pb n="29" facs="tcp:192322:23"/>Life? Pain and Pleaſure will leave their Impreſſions upon a Human Spirit; 'tis as natural as Wax to receive the Im<g ref="char:EOLhyphen"/>preſſion of that Seal by which it is Sealed. Therefore if I was either Happy or Mi<g ref="char:EOLhyphen"/>ſerable before I commenced Humanity, I muſt ſtill reatin ſome Impreſſion of it, but I now do neither, therefore ſhall do neither hereafter. I came out of a State of Nothingneſs, and ſhall return into the ſame again; as the Flame of an extinguiſhed Candle diſſolves and loſeth it ſelf in the Circumambient Air, even ſo the Taper of Life vaniſhes into pure Aether, and is no more, when the Laws of the <g ref="char:V">Ʋ</g>nion of the Soul and Body are violated and broken. Death it ſelf is nothing; and after Death there's no<g ref="char:EOLhyphen"/>thing; and why ſhould I be afraid of nothing? Take Courage, Man, and either Die like your ſelf, Maſter of your Fate and Happineſs, ſo long as it is to be kept; or Recover, and Live Wor<g ref="char:EOLhyphen"/>thy the Character of a Perſon that knows how either to Live, or Die. So wiſhes</hi>
+                  </p>
+                  <closer>
+                     <signed>Your real Friend and Servant, <hi>A. B.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="30" facs="tcp:192322:24"/>
+            <p>I had no ſooner read this Letter through, but he ſurpriz'd us all with repeated diſmal Groans, as if his Soul had been ſtrugling under the laſt Throws of Separation: We thought it not convenient to preſs for the Reaſon of it, conſidering that Hu<g ref="char:EOLhyphen"/>man Nature feels, or at leaſt ſup<g ref="char:EOLhyphen"/>poſes an Eaſe by complaining of the Evil it ſuffers, and it happened ac<g ref="char:EOLhyphen"/>cording to our Expectations, for at length he broke out into theſe afflict<g ref="char:EOLhyphen"/>ing Imprecations:
+<q>Curſed be the Day wherein I commenced ſuch a fatal Friendſhip: Oh unhappy Time, when firſt I imbib'd theſe Atheiſtical Principles! When firſt I exchanged the Chriſtian Faith for the Creed of <hi>Spinoza</hi> and the <hi>Levia<g ref="char:EOLhyphen"/>than!</hi> When firſt I relinquiſh'd all <hi>reveal'd Religion</hi> for the <hi>natural one,</hi> and the <hi>last</hi> for <hi>none at all.</hi>
+               </q> When caſting his Eyes upon me, he ſaid,
+<q>I am not able to write an Anſwer to that Letter, though I earneſtly deſire there ſhould be one, nor is it worth my while to get an
+<pb n="31" facs="tcp:192322:24"/>
+                  <hi>Emanuenſis</hi> for that purpoſe, for I ſuppoſe I ſhall have no occaſion to write any more. I'm alſo ſenſible that you might be better able to anſwer ſuch a Letter than I, and yet my preſent Circumſtances are ſuch (I being not only a Party, but the diſmal ſubject a Matter my ſelf) that what comes from me may make a deeper impreſſion upon the Spirit of my Friend, than what comes from a ſtrange Hand; therefore you will oblige me, if you will only lend me your Hand, and let me dictate;</q> which I freely offering, he ordered a Chair to be ſet on the other Side of the Bed, thinking it convenient to be as ſecret and free from Noiſe and Diverſion as poſſibly he could: And then he proceeded.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>BEing not able to uſe my own, I have borrowed another Hand to anſwer yours, poſſibly I may ſubſcribe my ſelf. You ſay well, Its a gratefuller
+<pb n="32" facs="tcp:192322:25"/>Office to endeavour to remove the Evils of the Mind than of the Body. What you urge of the common Lot of Man<g ref="char:EOLhyphen"/>kind, as Death and Sickneſs: I could wiſh it were my Caſe, but mine alas is a diſcovery that I pay dearly for,</hi> viz. <hi>That Deſpair and Hell is the common lot of Atheiſts. Now your Arguments cannot reach my Caſe, unleſs you first prove that Atheiſm is as inevitable as Death and Sickneſs, and that therefore the effects of it are to be born patiently, unleſs a Man will combat Neceſſity and fight against the Laws of Fate. Your way of arguing is ſuch as I have us'd my ſelf formerly; and I cannot but wonder now bow I could think it conclu<g ref="char:EOLhyphen"/>ſive: Perhaps I never indeed thought of that, but was pleaſed with it, becauſe I wiſh'd it to be true, and becauſe I ſaw it my Intereſt that it ſhould be ſo. If you pleaſe I'll just make a Refle<g ref="char:EOLhyphen"/>ction or two upon what you have writ, and then give you my Sentiments of the whole matter. You ſay, That if we examine Death and its ſuppoſed Conſe<g ref="char:EOLhyphen"/>quences by our Reaſon, thoſe formidable
+<pb n="33" facs="tcp:192322:25"/>Monſters grow tame and familiar: If by our Reaſon you mean either the pecu<g ref="char:EOLhyphen"/>liar Creed of Atheiſts, or the common Reaſon of Human Nature; I am ſure thoſe Monſters will be leſs tame and fa<g ref="char:EOLhyphen"/>miliar the more you think of them, for ſince no Reaſon diſcovers what an unex<g ref="char:EOLhyphen"/>perienc'd death is, or the unknown change conſequent thereupon, how can we judg of things that we know not? Reaſon as long as you pleaſe upon things that you are ignorant of, and at laſt you will be as far from Truth and Satisfa<g ref="char:EOLhyphen"/>ction, if not farther, than when you first began; like him that demanded a conſiderable Time to tell what God was; and when that was expired he demanded yet a greater; and being ask'd why he did ſo, he replyed,</hi> the more he thought, the leſs he knew of him. <hi>It might have been retorted on him, though the ſame Hiſtory gives no account of it; Why then did he petition for means of greater Ignorance and Con<g ref="char:EOLhyphen"/>fuſion? Your Argument is extream weak about a pre-exiſtent and future State;</hi> viz. <hi>I retain no impreſſion of
+<pb n="34" facs="tcp:192322:26"/>Happineſs or Miſery that I had in a pre-exiſtent State, therefore ſhall retain none in a future State. How that's a conſequence in any Rules of Logick I ſee not. Next, you would have me believe upon your bare Word, That Death is nothing, and that after Death there's nothing. Pray how do you know either, having not yet tryed? there are a great many that ſay the contrary. I have on<g ref="char:EOLhyphen"/>ly concerned my ſelf as to the rationality of your Letter, that I might induce you to believe I am not melancholy, diſtracted, or prejudic'd in my beaſon, and I would deſire you to believe it, That what I am going to ſay may not have the leſs credit, becauſe it comes from one under my circumstances; Its Truth, and whe<g ref="char:EOLhyphen"/>ther you will believe me or no, you will at laſt find it to be ſo.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>Here he groan'd, and deſired a little intermiſſion, being not only weary with repeating ſo much, but at preſent dejected and confuſed with the unhappy Truths he was about to tell his Friend, and ſo he reſted him<g ref="char:EOLhyphen"/>ſelf for about half an Hour; when
+<pb n="35" facs="tcp:192322:26"/>calling to me again, he deſired we might proceed: Which we did as follows.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>If I could force you to believe me I would; all I can do is to deal with you as a reaſonable Creature, by opening my Breaſt to you, and then leaving you at your liberty to act as you pleaſe. Whilſt we are in Health and Buſineſs we may ſeem to act contrary to our Intentions, and plead for things we believe not; but when we come to dye the Vizard is taken off, and the Man appears as he is, open and plain. This is my Condition therefore I can have neither Intereſt nor any other Motive in impoſing upon my Friends.</hi>
+                  </p>
+                  <p>
+                     <hi>Religion (I mean the Chriſtian) is no fictitious Impoſture; Heaven and Hell are real, and the immortality of the Soul is as certain as the exiſtence of the Body; for a Time we have officiouſly deluded and cheated one another of our Religion and Happineſs, and God, who will not always be deſpiſed by his Creatures with<g ref="char:EOLhyphen"/>out taking notice of it, has choſen me out as an example to you all, and as a
+<pb n="36" facs="tcp:192322:27"/>Warning to the lazy indifferent Chriſtian: But who, alas, can write their own Tra<g ref="char:EOLhyphen"/>gedy without Tears, or copy out the Seal of their Damnation, without the extre<g ref="char:EOLhyphen"/>mity of Horror? That there's a God I know, becauſe I continually feel the effects of his Wrath: That there's a Hell, I am as certain, having received the earneſt of my Inheritance there, in my Breast, where my Tortures are infinitely ſhort of any Expreſſion: That there's a natural Conſcience, which is not the effect of a prejudiced Education, I now feel with Horror and Amaze<g ref="char:EOLhyphen"/>ment, being continually upbraided by it with the Registry of my Impieties, and a bringing of all my Sins freſh into my remembrance; why God has markt me out for an example of his Wrath and Vengeance rather than you, or any of our Acquaintance, I preſume is, becauſe I am the greateſt Apoſtate, having been more religiouſly educated than any of you, and therefore done greater deſpite unto the Spirit of Grace, and been the greateſt Scandal to Religion. Oh what a preſumptuous, egregious piece of Folly
+<pb n="37" facs="tcp:192322:27"/>is it for Duſt and Aſhes to contend with their Creator, to queſtion his Juſtice, his Power, nay his very Being, when at the ſame Time without this infinite wiſe God, every ſuch vile Wretch would im<g ref="char:EOLhyphen"/>mediately fall into its Chaos again, be<g ref="char:EOLhyphen"/>ing not able to exiſt one moment without him? What a vile ingratitude is it ſcur<g ref="char:EOLhyphen"/>rilouſly to reflect upon the Chriſtian Reli<g ref="char:EOLhyphen"/>gion, when the Author of it dyed to re<g ref="char:EOLhyphen"/>concile ſuch Reflectors to himſelf? And if after all that be has done and ſuffered to make ſuch Fools happy, they will ſtill deny him and deſpiſe the Benefits of his Redemption, what can be expected but that this Interceſſor become an angry Judg and conſign his Enemies over to the Reward of their Demeries? Don't miſtake your ſelf, its not a light Mat<g ref="char:EOLhyphen"/>ter to queſtion and contend with the God of Nature, to abuſe Religion and deny the Author of it, and what is yet the worst of all, to apoſtatize and leave the way of Righteouſneſs, as I have done; behold, God hath met with me for it, after a long Forbearance of ſeveral Years in inveterate Impiety and Profaneneſs:
+<pb n="38" facs="tcp:192322:28"/>Let me intreat you, by my Example, to leave off your Sins by Repentance; who knoweth but God may yet receive you, and by me preach ſuch a Lecture as may ſtop you in your Courſe of Wicked<g ref="char:EOLhyphen"/>neſs? I ſpeak not this out of any Love to Vertue or Hatred of Vice, for I am hardned and impenitently reprobate, only herein I imitate</hi> Dives, <hi>who was unwil<g ref="char:EOLhyphen"/>ling his Brethren ſhould come into the ſame place of Torment with him: Make what uſe you pleaſe of this, only remem<g ref="char:EOLhyphen"/>ber that if it does not reclaim you, it will double your Condemnation, and en<g ref="char:EOLhyphen"/>hance your Guilt, poſſibly to be over<g ref="char:EOLhyphen"/>taken <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> preſent World as I am, with the just Judgment of God; if not, be ſure you will be light on hereafter: Which is all, and I wiſh I could ſay enough. From</hi>
+                  </p>
+                  <closer>
+                     <signed>Yours, <hi>&amp;c.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="39" facs="tcp:192322:28"/>
+            <p>As ſoon as he ſubſcribed his Name and the Letter was ſealed, he deſi<g ref="char:EOLhyphen"/>red a Porter might be called and ſent, for fear of a Miſcarriage; which was done accordingly. And the Night being far worn, we all took our Leaves and left him, wiſhing him good Reſt and a happier Condition the next Day: To which he replyed,
+<q>Gentlemen, I thank you, but my Happineſs is at an end, and as for my Reſt to Night, all the Eaſe I expect will be in wiſhing for the Day, as in the Day time I wiſh for the Night; thus ſpending the little remainder of my miſerable Mo<g ref="char:EOLhyphen"/>ments in a fearful expectation of my Diſſolution, and the diſmal Account I am to make upon it. But Gentlemen a good Night to you, and remember my Example, to con<g ref="char:EOLhyphen"/>firm you in that Religion I have diſowned, that ye may ſtand more cautiouſly by my Fall, and ſecure the Happineſs I have forfeited.</q>
+            </p>
+            <p>The next day came ſeveral of his Friends out of the Country, having
+<pb n="40" facs="tcp:192322:29"/>had an account of his Sickneſs and Diſtractions. When they came into the Room, one of them applyed himſelf to him, telling him, That he and ſeveral more of his Relations were come on purpoſe to Town to ſee him, and were extream ſorry to find him in ſuch a weak Condition as he appeared (for now he was al<g ref="char:EOLhyphen"/>moſt nothing but Skin and Bones, the Agonies that he lay under doing the Office of the quickeſt Conſumption.) To which he anſwered,
+<q>I am ob<g ref="char:EOLhyphen"/>liged, out of common Civility, to thank you all; but who are my Re<g ref="char:EOLhyphen"/>lations? Our Saviour ſaid, That ſuch only as did the Will of his Heavenly Father were his Relati<g ref="char:EOLhyphen"/>ons: I may alſo properly ſay, That none but the Atheiſt, the Re<g ref="char:EOLhyphen"/>probate, and all ſuch as do the Work of the Devil are my Rela<g ref="char:EOLhyphen"/>tions; this little Tye of Fleſh and Blood will be diſſolv'd in a Moment, but the Relation I have to the dam<g ref="char:EOLhyphen"/>ſame is permanent and laſting, the ned Lot, the ſame Place of Tor<g ref="char:EOLhyphen"/>ments,
+<pb n="41" facs="tcp:192322:29"/>the ſame Exerciſes of Bla<g ref="char:EOLhyphen"/>ſphemy, and the ſame Eternity of Horror will be common to us all; ſo that ſimilitude of Torments, Place and Duration will joyn us in a very ſtrict Union.</q> His Friends, who had only had ſome Report of a kind of Diſtraction, were ſurprized to hear him deliver himſelf in ſuch Terms, and began to enquire of ſome of us what was the matter that he talked at ſuch a rate; who replied, We could wiſh it were Frenzy or Diſtraction, but we were afraid of a much ſadder Cauſe, <hi>viz.</hi> the Senſe of Hell, and God's Wrath upon him, which was ſo violent as to drive him into Deſpair, and the utmoſt Ago<g ref="char:EOLhyphen"/>nies and Horror of Mind, begging, if it might pleaſe God, the caſe might be altered before his Death, which they were ſure could not be far off, if he proceeded as he had begun. He hearing them whiſper, and ima<g ref="char:EOLhyphen"/>gining the Cauſe of it, called them all unto him, and ſaid;
+<q>You may imagin me diſtracted or melancholy,
+<pb n="42" facs="tcp:192322:30"/>I wiſh I were either; but it's part of my Judgment, that I am not; no, my Apprehenſion of Perſons and Things is rather more vigorous and quick than it was when I was in perfect Health: And it is my Curſe, becauſe I am thereby more ſenſible of my Unhappineſs and the Condi<g ref="char:EOLhyphen"/>tion I am fallen into. Would you be informed why I am become a Skeleton in three or four Days? Why, my Grief does continually extort ſome unhappy Expreſſions from me: Know then that I have ſinned againſt the Holy Ghoſt, and done deſpite to the Spirit of Grace; that I have deſpiſed my Maker, and denied my Redeemer; that in ſhort I have apoſtatized from the Chriſtian Religion, and joined my ſelf to the Atheiſt and Prophane, and continued this Courſe under many Convictions, till my Iniqui<g ref="char:EOLhyphen"/>ty was ripe for Vengeance, and the juſt Judgment of God overtook me, when my Security was the greateſt and the Checks of my Conſcience
+<pb n="43" facs="tcp:192322:30"/>the leaſt. Since I denied that Sal<g ref="char:EOLhyphen"/>vation that comes by Chriſt Jeſus, there is no other Mediator or Inter<g ref="char:EOLhyphen"/>ceſſor for Sinners; if there be, who is he that can redeem my Soul from Hell, or give a Ranſom for my Life? No, no, the Scripture is certainly true, and that ſays, <hi>That if we ſin wilfully, after we have received the Knowledg of the Truth, there remaineth no more Sacrifice for Sin, but a fearful looking for of Judg<g ref="char:EOLhyphen"/>ment, and fiery Indignation, which ſhall conſume the Adverſary.</hi> There remaineth no more Sacrifice for Sin, that's the Wound that pierces my Soul: Chriſt Jeſus was the only expiatory Sacrifice for Sinners that God would accept of; and I not accepting (I would ſay,) and I deſpiſing this, there now re<g ref="char:EOLhyphen"/>mains no other for me to accept of, no other to make an At<g ref="char:EOLhyphen"/>tonement and Satisfaction for me, <hi>There's no other Name un<g ref="char:EOLhyphen"/>der Heaven given whereby we may be ſaved, but by the Name of Jeſus;</hi>
+                  <pb n="44" facs="tcp:192322:31"/>and 'tis this Jeſus that I have Re<g ref="char:EOLhyphen"/>proached, Ridiculed, and Abuſed, in his Members here; nor is this all, I have not been content to do this my ſelf, but by my Example have induced others to do the ſame. Methinks your Breaſts are all open to me, and in the midſt o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> your Pity and Surprizals, yo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> would bid me Hope, Believe, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Return and Supplicate that Mercy I have abuſed; that Jeſus came to ſave Sinners, and to bring them to Repentance, with other things o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this nature. I know that theſe are your thoughts, and by menti<g ref="char:EOLhyphen"/>oning them I have ſaved you the Labour: Alas, how fain would <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Hope and Believe! Can a Man in Torments not deſire to be freed from them? No, aſſure your ſelves, I would upon any Terms, but the Diſpleaſure and Wrath of God, obſtruct the Power of Hoping and Believing; and though I would, I can do neither, nor do I know what ſome Divines mean,
+<pb n="45" facs="tcp:192322:31"/>that ſay, He that deſires to Hope, Repent, and Believe, in ſome meaſures does it: I experience the contrary; a fruitleſs Wiſhing that comes not to Act, is no more but a Conviction, which ſhall bring ſuch Perſons under greater Dam<g ref="char:EOLhyphen"/>nation. Would you have me to Return and Supplicate that Mercy I have Abuſed? Alas! how ſad is my Caſe, that have no other hopes but what depend upon Abuſed Mercy? But why ſaid I hopes? When I have no hopes at all, my hopes are fruſtrate, and my ex<g ref="char:EOLhyphen"/>pectations are cut off, and what remains behind? why, I am bid to Hope and Believe; Oh what Sa<g ref="char:EOLhyphen"/>tyr, what Mockery and Abuſe is this upon me, to find me in Miſe<g ref="char:EOLhyphen"/>ry, and bid me be Happy, with<g ref="char:EOLhyphen"/>out affording me ſome power of being ſo! Indeed ſhould Jeſus Chriſt ſay ſo much to me, it would be ſome Comfort; but for you to do it, is the ſame thing, as to bid a Malefactor ſhake his off
+<pb n="46" facs="tcp:192322:32"/>Chains and Fetters, and aſſume his Liberty; or to call upon the Dead to ariſe out of their Graves and Challenge their Eſtates and Honours again. How idle is it to bid the Fire not to burn, when Fuel is adminiſtred; to comman<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Seas to be Smooth and Calm i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the midſt of Storms, ſuch is m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Caſe, and ſuch are the Comfort of my Friends: But I'm ſpent, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> can Complain no more; would <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God the Cauſe of my Complain would alſo ceaſe; the Cauſe of m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Complaints! This renews m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Grief, and ſummons up the litt<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> ſtrength I have left to Complai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> again, like an extinguiſhing Flam<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that recollects at once all its Al<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mentary Matter for one gre<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> Blaze before it expires. 'Tis ju<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> ſo with me: But whether am I g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing?</q> As he ſaid this, he faint away, and lay in a ſort of Swou<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for a conſiderable time, but by t<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> help of ſome <hi>Spirits</hi> we brought hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to himſelf again, and as ſoon as <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="47" facs="tcp:192322:32"/>opened his Eyes, he ſaid,
+<q>Oh cruel and unkind Friends, to awake me from a Dream in which I had a Ceſſation from my Tortures, but now they return again, and Prey upon my Soul like ſo many Furies.</q> This he ſpoke with ſo feeling and lively Concern, that not one of his Relations could refrain from Tears, none of them being able to ſpeak to him for a conſiderable time before;
+<q>You weep, ſays he, but your ve<g ref="char:EOLhyphen"/>ry Years come too late; was I like another Perſon that goes out of the World, it would be one of my greateſt Troubles to ſee you Weep, or at leaſt, it would add much to my pains; for he muſt be unnatural and ſenſeleſs that could not be moved and troubled at the affliction of others, eſpecially his Friends and Relations; but the Caſe is otherwiſe with me, my Cup is full, and already runs over, the bitterneſs of my Soul is as great as poſſible it can be in this World, and my Heart is full of
+<pb n="48" facs="tcp:192322:33"/>Horror and Anguiſh, and no Grief can add unto mine, being already ſo great, that 'tis uncapa<g ref="char:EOLhyphen"/>ble of receiving any more. Per<g ref="char:EOLhyphen"/>haps, this may ſeem a Paradox to you at firſt, but what think you of Time and Eternity? Can one add an Hour to Eternity, which com<g ref="char:EOLhyphen"/>prehends and ſwallows all Time? Can one add any thing to the Wrath of God, which includes the Fury of Devils and Men, this being de<g ref="char:EOLhyphen"/>rivative and dependent on that, and can any one add to my Grief and Tortures, who am <hi>fallen into the hands of the living God?</hi> No, no, reſerve your Tears for your Sins, and caſt them not away ſo fruitleſly upon one that is neither the better nor worſe for them.</q>
+            </p>
+            <p>You may eaſily imagine what im<g ref="char:EOLhyphen"/>preſſions ſuch Sayings as theſe made upon the Spirits of his Friends, who were almoſt overwhelmed with Grief and Amazement, with Grief, at the lamentable State of their Kinſman, and with Amazement at the dreadful
+<pb n="49" facs="tcp:192322:33"/>Judgment of God upon him. But in the midſt of their Sorrows they had the Prudence to think of the Re<g ref="char:EOLhyphen"/>putation of their Family, and to pro<g ref="char:EOLhyphen"/>vide for as much Secrecy as they poſ<g ref="char:EOLhyphen"/>ſibly could in ſuch a Caſe; for the Rumor of a Man in Deſpair begin<g ref="char:EOLhyphen"/>ning to ſpread, they conveyed him by Night to other Lodgings; but he was grown ſo very weak, that not<g ref="char:EOLhyphen"/>withſtanding the Care of thoſe who conveyed him in the Chair, it had like to have proved fatal to him; for he fainted away ſeveral Times, but they got him into his Chamber and to Bed as ſoon as they could: After a little Reſt he yet found ſo much ſtrength as to expreſs himſelf thus:
+<q>I am not concerned to enquire whi<g ref="char:EOLhyphen"/>ther you have brought me, or your Reaſons for ſo doing; it had been ſomething if you had brought my Perſon hither without my Horrors and accuſing Conſcience, or if you had changed my unhappy State with my Lodgings; but my Torments are rather the greater than before,
+<pb n="50" facs="tcp:192322:34"/>for I ſee that diſmal Hour is ap<g ref="char:EOLhyphen"/>proaching and juſt at hand, when I ſhall bid you all a ſad Farewel.</q> The Doctors that had been with him in the beginning of his Sickneſs were again ſent for, and they yet declared they could do nothing, ſo long as the Diſturbance of his Mind was the Cauſe of his Weakneſs, only they ordered him ſome Cordial Julips, which they ſaid might perhaps ſtren<g ref="char:EOLhyphen"/>gthen his Nature, ſo that he might live two or three Days longer. My Buſineſs called me away for a Day or two, and I came again upon <hi>Thurſ<g ref="char:EOLhyphen"/>day</hi> Morning pretty early, the Day of his Death. When I came into the Room I enquired of his Friends how he had ſpent his Time? who had been with him, what Diſcourſe or Expreſſions had dropt from him? And they told me in general, he had little Company, and that his Expreſ<g ref="char:EOLhyphen"/>ſions were much ſhorter than before, being now unable to ſpeak many words together; yet that what he did ſpeak, ſeemed to have more Horror
+<pb n="51" facs="tcp:192322:34"/>and Deſpair in it than formerly. Af<g ref="char:EOLhyphen"/>terwards I went to his Bed-ſide, and ſaw <hi>perfect death</hi> in his Face, mixt with ſuch Amazement and Anguiſh, that it was the ſaddeſt Spectacle I ever ſaw in all my Life-time. I askt him how he did? To which he reply'd,
+<q>
+                  <hi>Damn'd and lost for ever.</hi>
+               </q> I deſired him not to entertain ſuch a Thought; the Decrees of God were ſecret, and God might puniſh him thus, in this life, to make him fit for a better.
+<q>They are not (ſaid he) ſecret to me, but diſcovered for my greater Torment; and my Puniſhment here is for an Example to others, and for an Earneſt to me of my own Damnation. Oh that there was no God, or that this God could ceaſe to be; for I am ſure he will never have Mercy upon me.</q>
+Alas, ſaid I, there's no contending with our Creator, therefore forbear ſuch words as may provoke him more.
+<q>True (reply'd he) there's no contend<g ref="char:EOLhyphen"/>ing; I wiſh there were a poſſibility of getting above God, that would
+<pb n="52" facs="tcp:192322:35"/>be a Heaven to me.</q> I entreated him not to entertain ſuch a Blaſphe<g ref="char:EOLhyphen"/>my, for—Here he interrupted me, ſaying,
+<q>Read we not in the <hi>Revela<g ref="char:EOLhyphen"/>tions,</hi> of thoſe that blaſphem'd God becauſe of their pains? I am now of that number. Oh how do I envy the happineſs of <hi>Cain</hi> and <hi>Judas!</hi>
+               </q> But (reply'd I) you are yet alive, and do not feel the Torments of thoſe that are actually in Hell. To which he anſwer'd,
+<q>This is either true or falſe; if it be true, what are my expectations, and how heavy will my Torments be, if I yet not feel the uttermoſt? But I know that 'tis falſe, and that I now endure more than the Spirits of the damn'd in Hell; for I have the very ſame Tor<g ref="char:EOLhyphen"/>tures upon my Spirit, as they have, beſides the Torments I endure in my Body. I believe that at the day of Judgment, the Torments of my Mind and Body will be both of 'em more intenſe; but as I am now, no Spirit in Hell endures what I do: How gladly would I change my con<g ref="char:EOLhyphen"/>dition
+<pb n="53" facs="tcp:192322:35"/>for Hell! And how earneſtly would I intreat of my angry Judge to ſend me thither, if I was not a<g ref="char:EOLhyphen"/>fraid that he would out of venge<g ref="char:EOLhyphen"/>ance deny me?</q> Here he clos'd his Eyes a little, and began to talk idly and beſides himſelf, every now and then <hi>groaning and gnaſhing his Teeth;</hi> but when he open'd his Eyes and lookt about, he grew ſenſible again, and felt for his own Pulſe, ſaying,
+<q>
+                  <hi>How lazily my Minutes paſs on!</hi> When will be the laſt Breath, the laſt Pulſe, that ſhall beat my Spirit out of this de<g ref="char:EOLhyphen"/>cay'd Manſion into thoſe deſir'd Re<g ref="char:EOLhyphen"/>gions of Death and Hell? Oh! I find 'tis juſt at hand; and what ſhall I now ſay? I'm now afraid again to die. Ah the forlorn Hope, the de<g ref="char:EOLhyphen"/>ſtitute State of an <hi>Atheist</hi> that has no God to go to, nothing to fly to for Peace or Comfort!</q> Here his Speech fail'd him again; and we all believ<g ref="char:EOLhyphen"/>ing him to be juſt a leaving the World went to Prayer, which threw him into an Agony, in which, tho' he could not ſpeak perfectly, he made
+<pb n="54" facs="tcp:192322:36"/>what noiſe he could to hinder himſelf from hearing, and turn'd away his Face that he might not ſee the Action; which we perceiving, we recom<g ref="char:EOLhyphen"/>mended him to the Mercy of God, and gave over. His Speech return'd not again for a conſiderable time, but he fixt his Ghaſtly Eyes upon us, and by the Air of his Countenance ſhew'd, that we had not a little diſ<g ref="char:EOLhyphen"/>oblig'd him: And as ſoon as he cou'd ſpeak, he ſaid,
+<q>Tygers and Mon<g ref="char:EOLhyphen"/>ſters, are ye alſo become Devils to Torment me, and give me a Proſpect of Heaven, to make my Hell the more intollerable?</q> Alas, Sir, reply'd I, what Intereſt can we have in making you miſerable? 'Tis our deſire of your recovery and re<g ref="char:EOLhyphen"/>conciliation with God, that caſts us down at the Throne of Grace; if we muſt not ſeek aſſiſtance at the hand of God, where elſe ſhould we ſeek it? If God denies; who elſe can give it? If he will not have Mercy; whether muſt we go for it? To which he reply'd,
+<q>Ay that's the
+<pb n="55" facs="tcp:192322:36"/>Wound, God is become my Ene<g ref="char:EOLhyphen"/>my, and there is none ſo ſtrong as he to deliver me out of his Hand; he conſigns me over to his Eternal Wrath and Vengeance, and there is none that is able to Redeem me. Was there another God as Mighty as he who would Patro<g ref="char:EOLhyphen"/>nize my Cauſe, or was I above, or Independent of God, then I could Act and Diſpoſe of my ſelf as I pleaſed, then would my Horrors ceaſe, and the Expectati<g ref="char:EOLhyphen"/>on and Deſigns of my Formida<g ref="char:EOLhyphen"/>ble Enemy be fruſtrate; but this cannot be, for I—</q> Here his Voice failed him again, and he be<g ref="char:EOLhyphen"/>gan to ſtruggle and gaſp for a little Breath, which having recovered, with a Groan ſo Dreadful and Loud, as if it had not been Humane, he Cried out,
+<q>
+                  <hi>Oh the inſufferable Pangs of Hell and Damnation!</hi>
+               </q> and ſo he Died, Death ſetling the Viſage of his Face in ſuch a Form, as if the Body, tho' Dead, was <hi>ſenſible of the Extremity of Torments.</hi> How
+<pb n="56" facs="tcp:192322:37"/>God diſpoſed of him we know not; <hi>Secret things belong to the Lord,</hi> to us Charity and Hope; yet not ſo much as to make this no Example to us, for ſuch Inſtances are ſigna<g ref="char:EOLhyphen"/>lized on purpoſe to Teach us Fear and Reverence, to Judg our ſelves, and uſe the utmoſt Diligence and Care to make our Calling and Electi<g ref="char:EOLhyphen"/>on ſure.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>
+               <hi>Books lately Printed for</hi> John Dunton.</head>
+            <p>THE late Tryals of ſeveral Witches, Publiſhed by <hi>Cotton Mather.</hi>
+            </p>
+            <p>
+               <hi>The Fourth Edition</hi> of the new Martyrology, or Bloody Aſſizes, with Additions ſo large, as renders it a new Secret Hiſtory of the late Times.</p>
+            <p>The ſenſe of the United Nonconforming Miniſters, againſt ſome of Mr. <hi>Davies</hi> Erro<g ref="char:EOLhyphen"/>neous Opinions.</p>
+            <p>Caſuiſtical Morning Exerciſes, the Fourth Volume.</p>
+            <p>Heads of Agreement aſſented to by the U<g ref="char:EOLhyphen"/>nited Miniſters.</p>
+            <p>The Country's Concurrence with the <hi>Lon<g ref="char:EOLhyphen"/>don</hi> Miniſters, by <hi>S. Chandler.</hi>
+            </p>
+            <p>The Second Edition of Goſpel-Truth ſtated.</p>
+            <p>A Defence of Goſpel-Truth, being a Re<g ref="char:EOLhyphen"/>ply to Mr. <hi>Chancy</hi>'s Firſt Part.</p>
+            <pb facs="tcp:192322:37"/>
+            <p>A Diſcourſe ſhewing what Repentance of National Sins God requires, <hi>&amp;c.</hi>
+            </p>
+            <p>The Vanity of Childhood and Youth; theſe Four laſt written by <hi>Dan. Williams.</hi>
+            </p>
+            <p>The Life of Mr. <hi>Tho. Brand,</hi> by Dr. <hi>An<g ref="char:EOLhyphen"/>neſley.</hi>
+            </p>
+            <p>The Mourners Companion, by <hi>J. Shower.</hi>
+            </p>
+            <p>
+               <hi>A Practical Diſcourſe</hi> on Sickneſs and Reco<g ref="char:EOLhyphen"/>very.</p>
+            <p>
+               <hi>Early Religion,</hi> or a Diſcourſe of the Duty of Youth.</p>
+            <p>Fall not out by the way, or a perſwaſion to a Friendly Correſpondence between Bre<g ref="char:EOLhyphen"/>thren of the ſame Faith, all Three by <hi>T. Ro<g ref="char:EOLhyphen"/>gers,</hi> M. A.</p>
+            <p>The Life and Death of the Reverend Mr. <hi>Eliot,</hi> by <hi>Cotton Mather.</hi>
+            </p>
+            <p>Mr. <hi>Barker</hi>'s <hi>Flores Intellectuales,</hi> both Parts.</p>
+            <p>Mr. <hi>Increaſe Mather</hi>'s Sermon to a Con<g ref="char:EOLhyphen"/>demn'd Malefactor.</p>
+            <p>Mr. <hi>Quick</hi>'s Young Man's Claim to the Sa<g ref="char:EOLhyphen"/>crament.</p>
+            <p>A Practical Diſcourſe on the late Earth<g ref="char:EOLhyphen"/>quakes.</p>
+            <p>Mr. <hi>Crow</hi>'s Vanity of Judicial Aſtrology.</p>
+            <p>Mr. <hi>Oakes</hi> Funeral Sermon.</p>
+            <p>Mr. <hi>Kent</hi>'s Funeral Sermon, both by Mr. <hi>Sam. Slater.</hi>
+            </p>
+            <p>Mr. <hi>Barlow</hi>'s Treatiſe of Fornication, be<g ref="char:EOLhyphen"/>ing a Penitentiary Sermon.</p>
+            <p>The Celeſtial Race, by Mr. <hi>Buſh.</hi>
+            </p>
+            <p>Mr. <hi>Buſh</hi>'s Sermon on a Perſon that died ſuddenly.</p>
+            <p>
+               <hi>The Eighth Volume</hi> of the <hi>Athenian</hi> Gazette, with a general Title, Preface, and Index to it.</p>
+            <p>
+               <hi>The Firſt Volume</hi> of the Compleat Library, with Two Alphabetical Tables.</p>
+            <pb facs="tcp:192322:38"/>
+            <p>
+               <hi>A Mourning Ring,</hi> in memory of your de<g ref="char:EOLhyphen"/>parted Friend, the Second Edition.</p>
+            <p>The Young Student's Library, Publiſh'd by the <hi>Athenian</hi> Society.</p>
+            <p>— A Schene of Inquiries, Publiſh'd by the <hi>Athenian</hi> Society.</p>
+            <p>— An Ode to the <hi>Athenian</hi> Society.</p>
+            <p>— The Viſions of the Soul, by a Mem<g ref="char:EOLhyphen"/>ber of the <hi>Athenian</hi> Society.</p>
+            <p>The Entire Set of the <hi>Athenian</hi> Gazettes for the Year 1691, or ſingle Mercuries to this time.</p>
+            <p>The Hiſtory of the <hi>Athenian</hi> Society.</p>
+            <p>An Account of the Diviſions amongſt the Quakers in <hi>Penſilvania.</hi>
+            </p>
+            <p>— A further Account of the Diviſions of the Quakers in <hi>Penſilvania.</hi>
+            </p>
+            <p>The Principles, Doctrines, Laws, and Orders of the Quakers.</p>
+            <p>The Character of a <hi>Williamite,</hi> by a Di<g ref="char:EOLhyphen"/>vine of the Church of <hi>England,</hi> Price 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>The Character of a <hi>Jacobite,</hi> by a Perſon of Quality, Price 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>
+               <hi>Religio Bibliopolae,</hi> in imitation of <hi>Dr. Brown</hi>'s <hi>Religio Medici.</hi>
+            </p>
+            <p>A Compleat Hiſtory of all the Remarkable Penitents that have been Executed at <hi>Ty<g ref="char:EOLhyphen"/>burne</hi> for theſe laſt Thirty Years.</p>
+            <p>The Double Deſcent, a Poem.</p>
+            <p>The Divine Captain, by Mr. <hi>Hickeringil.</hi>
+            </p>
+            <p>Infant Baptiſm ſtated, in an Eſſay to vin<g ref="char:EOLhyphen"/>dicate its Lawfulneſs from the Teſtimony of holy Scripture; with an account of a Confe<g ref="char:EOLhyphen"/>rence publickly held with an Antipedobaptiſt of no ſmall fame: By <hi>J. R.</hi> a Presbyter of the Church of <hi>England.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <pb facs="tcp:192322:38"/>
+            <p>A CONFERENCE Betwixt a Modern <hi>Atheiſt,</hi> AND HIS FRIEND.</p>
+            <p>BY THE METHODIZER OF THE Second Spira.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Dunton</hi> at the <hi>Raven</hi> in the <hi>Poultry.</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
